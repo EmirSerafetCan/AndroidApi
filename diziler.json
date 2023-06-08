@@ -1,42 +1,42 @@
 [{
  "Dizi": "Kurtlar Vadisi",
  "Bilgi": "2003 - 2005 yılları arasında 97 bölüm yayınlanmıştır.",
- "ResimURL": "https://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/kv.jpg",
+ "ResimURL": "https://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/kv.jpg"
 },
  
  {
    "Dizi": "Eşkiya Dünyaya Hükümdar Olmaz",
    "Bilgi": "2015 - 2021 yılları arasında 199 bölüm yayınlanmıştır.",
-   "ResimURL": "https://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/edho.jpg",
+   "ResimURL": "https://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/edho.jpg"
  },
  
  {
    "Dizi": "Ben Bu Cihana Sığmazam",
    "Bilgi": "2022 yılında yayınlanmaya başlamış ve devam etmektedir.",
-   "ResimURL": "https://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/bbcs.jpg",
+   "ResimURL": "https://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/bbcs.jpg"
  },
  
  {
    "Dizi": "Hayat Bilgisi",
    "Bilgi": "2003 - 2006 yılları arasında 137 bölüm yayınlanmıştır.",
-   "ResimURL": "https://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/hb.jpeg",
+   "ResimURL": "https://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/hb.jpeg"
  },
  
   {
    "Dizi": "Annem",
    "Bilgi": "2007 - 2009 yılları arasında 64 bölüm yayınlanmıştır.",
-   "ResimURL": "https://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/annem.jpg",
+   "ResimURL": "https://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/annem.jpg"
  },
  
   {
    "Dizi": "Kurtlar Vadisi Pusu",
    "Bilgi": "2007 - 2016 yılları arasında 300 bölüm yayınlanmıştır.",
-   "ResimURL": "https://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/kvphttps://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/annem.jpg.jpg",
+   "ResimURL": "https://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/kvp.jpg"
  },
  
   {
    "Dizi": "Ezel",
    "Bilgi": "2009 - 2011 yılları arasında 71 bölüm yayınlanmıştır.",
-   "ResimURL": "https://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/ezel.png",
+   "ResimURL": "https://raw.githubusercontent.com/EmirSerafetCan/AndroidApi/main/ezel.png"
  }
 ]
